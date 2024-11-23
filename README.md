@@ -1,51 +1,32 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Trailer: Coffe Love - O Dorama mais aguardado do ano 🎥
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+
+> Você está preparado para se apaixonar? ❤️👀
+
+Este vídeo de 1 minuto apresenta uma visão rápida e envolvente do potencial e da aplicação das IAs Generativas na indústria audiovisual.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+• IA Generativa ChatGPT para fornecimento de ideias de imagens para compor o vídeo;
+
+• IA Generativa Bing Criador de Imagens para geração de imagens;
+
+• IA Generativa Runaway para gerar vídeos a partir de imagens;
+
+• Software Viva Video para edição de vídeo.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+Usei o "ChatGPT" para obter ideias de cenários e enquadramentos de câmera para representar as imagens de um dorama em que um casal se conhece em uma cafeteria. Após geração das imagens no Bing, o Runaway foi essencial para dar movimento às fotografias, trazendo vida ao vídeo. A montagem e edição foram realizadas no Viva Video.ecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+O vídeo demonstra o potencial que as IAs Generativas têm de revolucionar a indústria audiovisual. 
 
-### Exemplos e Insigths
+LINK PARA O VÍDEO AQUI
+https://github.com/user-attachments/assets/f0720f35-1539-43cb-8826-c0f3943fdbaa
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+## 💭Reflexão
 
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Este projeto foi uma experiência fascinante. As IAs Generativas levam a indústria audiovisual a outro patamar, ao transformar a forma de produzir histórias visuais.
